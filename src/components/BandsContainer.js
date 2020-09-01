@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import BandInput from './BandInput';
+import Bands from './bands.js';
+import { connect } from 'react-redux'
 
 import { connect } from 'react-redux'
 
